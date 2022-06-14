@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "_OpenTok",
-            url: "https://github.com/IntouchHealth/ios-opentok-sdk-xcframeworks/releases/download/v0.0.1/_OpenTok.xcframework.zip",
+            url: "https://github.com/IntouchHealth/ios-opentok-sdk-xcframeworks/releases/download/v0.0.2/_OpenTok.xcframework.zip",
             checksum: "a9f43db5c586b5cb90274e85d5369007d3195c5a301716063c2aa6f1635922e8"
         ),
         .target(
