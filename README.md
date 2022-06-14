@@ -1,2 +1,3 @@
-# ios-package-thtokbox
-Importing TokBox with SwiftPM
+# opentok-package
+
+A description of this package.
